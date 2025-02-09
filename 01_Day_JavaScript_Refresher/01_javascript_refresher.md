@@ -3004,7 +3004,7 @@ const fullStack = [
 ];
 
 for (const [first, second, third, fourth] of fullStack) {
-  console.log(first, second, third, fourt);
+  console.log(first, second, third, fourth);
 }
 ```
 
